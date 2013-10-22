@@ -1,0 +1,22 @@
+{
+  "name": "bong",
+  "version": "0.0.0",
+  "description": "a Node.js sdk of bong.cn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/bong.git"
+  },
+  "keywords": [
+    "bong",
+    ""
+  ],
+  "author": "turing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/bong/issues"
+  }
+}
